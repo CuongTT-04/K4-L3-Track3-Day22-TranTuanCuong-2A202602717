@@ -49,3 +49,10 @@ hf_cache/
 .idea/
 .vscode/
 *.swp
+
+# Temporary scratch & extraction
+Temp/
+sync_artifacts.py
+build_kaggle_*.py
+save_extracted.py
+inspect_nb.py
